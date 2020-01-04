@@ -198,7 +198,9 @@ exports.get = function(req,res){
            }
 
 
-           items = [children[1]];
+           
+           items = [children[tree_rows[0].id]];
+
 
            let promise_customer = new Promise((resolve, reject) => {
 

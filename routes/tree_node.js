@@ -48,7 +48,7 @@ exports.list = function(req, res){
               state_array.push(data.state);
               leaf_id_array.push(data.leaf_id);     
             }
-
+            console.log(rows.length);
               var results = rows;
               var source = [];
               var children = [];
@@ -82,9 +82,7 @@ exports.list = function(req, res){
            }
            // res.json(children);
            // console.log(children[1]);
-
-           items = [children[1]];
-
+           items = [children[rows[0].id]];
 
           let promise_customer = new Promise((resolve, reject) => {
 
