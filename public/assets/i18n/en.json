@@ -1,5 +1,37 @@
 {
   "demo.title": "English_ Create new session",
   "demo.text": "This is a simple demonstration app for ngx-translate",
-   "1.CS.2": "1.CS.2"
+
+
+  "ACCETTAZIONE DELL'INCARICO": "ACCEPTANCE OF THE ASSIGNMENT",
+  "AREA1 CS - Collegio sindacale": "AREA1 CS - Board of Statutory Auditors",
+  "AREA2 SU - Sindaco Unico": "AREA2 SU - Sole Auditor",
+  "AREA3 REV - Revisore - Societa di revisione": "AREA3 REV - Auditor - Auditing company",
+  "VALUTAZIONE DEL RISCHIO": "RISK ASSESSMENT",
+  "Area 2 - Comprensione della societa e valutazione del rischio": "Area 2 - Understanding of the company and risk assessment",
+  "PIANIFICAZIONE E CONTROLLO DEL BILANCIO": "BUDGET PLANNING AND CONTROL",
+  "Area 3 - controllo del bilancio": "Area 3 - budget control",
+  "Area 9 - Conclusioni": "Area 9 - Conclusions",
+  "RELAZIONE AL BILANCIO": "REPORT ON THE BUDGET",
+  "Area 91 - Relazione solo Revisione Legale - Bilancio di Esercizio": "Area 91 - Legal Audit Report only - Financial Statements",
+  "Area 92 - Relazione solo Revisione Legale - Bilancio Consolidato": "Area 92 - Legal Audit Report only - Consolidated Financial Statements",
+  "Area 93 - Relazione solo Attivita di Vigilanza - Bilancio di Esercizio": "Area 93 - Report only on Supervisory Activities - Financial Statements",
+  "Area 94 - Relazione solo Attivita di Vigilanza - Bilancio Consolidato": "Area 94 - Report on Supervisory Activities only - Consolidated Financial Statements",
+  "Area 95 - Relazione Revisione Legale e Attivita di Vigilanza - Bilancio di Esercizio": "Area 95 - Legal Audit and Supervisory Activities Report - Financial Statements",
+  "VERIFICHE PERIODICHE E PIANIFICAZIONE Isa Italia 250B": "PERIODIC CHECKS AND PLANNING Isa Italia 250B",
+  "Pianificazione Controllo Contabile": "Accounting Control Planning",
+  "Area 4 - Verifiche per controllo contabile": "Area 4 - Audits for accounting control",
+  "Pianificazione Attivita di Vigilanza": "Supervisory Activity Planning",
+  "Area 5 - Verifiche per attivita di vigilanza": "Area 5 - Verifications for supervisory activities",
+  "TEAM DI REVISIONE - ISQC": "REVISION TEAM - ISQC",
+  "Area Team - Crea team ed assegna incarichi": "Team Area - Create teams and assign assignments",
+  "Area ISQC - Controllo interno qualita di revisione": "ISQC Area - Internal audit quality control",
+  "GESTIONE DEI FLUSSI DI COMUNICAZIONE": "MANAGEMENT OF COMMUNICATION FLOWS",
+  "Comunicazioni per controllo di qualita interno (ISQC)": "Communications for internal quality control (ISQC)",
+  "Comunicazioni fra Organi della societa": "Communications between company bodies",
+  "Comunicazioni fra Organi delle societa del gruppo": "Communications between the Bodies of the group companies",
+  "Comunicazioni con terzi": "Communications with third parties",
+
+  
+  "1.CS.2": "1.CS.2"
 }
