@@ -6,14 +6,13 @@ This is a very basic example of CRUD in Node.js, angularjs, mySQL.
 	npm install
 
 ## Configuration (database)
-app.js
+server.js
 
-        host: 'localhost',
-        user: 'root',
-        password : 'root',
+        host: 'database-1.cimr79hkc362.us-west-2.rds.amazonaws.com',
+        user: 'admin',
+        password : '**********',
         port : 3306, //port mysql
-        database:'nodejs'	
+        database:'customer'	
 
 
 	
-You're gonna need to create a DB named 'nodejs' and import customer.sql
